@@ -1,5 +1,5 @@
 My thanks goes to Junxiao Shi (yoursunny.com) for his original code and documentation - so full credit goes to him for 99.9% of this code.
-I added OLED display support and had to make one wiring modification on the SPI interface.
+I added OLED display support and had to make one wiring modification with the slave select line (SS) on the SPI interface.
 
 # TcpFipsyLoader example
 
