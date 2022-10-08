@@ -3,7 +3,7 @@ I added OLED display support and had to make one wiring modification with the sl
 
 # TcpFipsyLoader example
 
-In this example, the ESP32 receives a JEDEC file via TCP, and programs Fipsy once the file has been verified.
+In this example, the ESP32 receives a JEDEC file via TCP, and flashes the Fipsy FPGA once the file has been verified.
 
 ## Wiring
 
